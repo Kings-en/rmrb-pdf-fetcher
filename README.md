@@ -15,5 +15,5 @@
 1. 克隆项目到本地：
 
    ```bash
-   git clone https://github.com/yourusername/rmrb_download.git
+   git clone https://github.com/Kings-en/rmrb-pdf-fetcher.git
    cd rmrb_download
