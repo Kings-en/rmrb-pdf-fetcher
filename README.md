@@ -2,6 +2,15 @@
 > 这是一个用于自动获取每日人民日报完整PDF的项目，仅限自己学习使用，若有侵权联系删除。
 
 这是一个用于自动下载并合并人民日报版面 PDF 的 Python 程序。该程序每天定时从人民日报的官方网站下载最新的 PDF 文件，并将它们合并为一个完整的 PDF 文件。
+两个分支，其中`main`提供PDF版报纸下载功能，`article-crawler`提供PDF版文章汇总下载，可用于打印后做笔记使用或导入ipad笔记软件使用。
+
+## `main`样板展示
+[人民日报-2025-10-19-完整版.pdf](https://github.com/user-attachments/files/22998360/-2025-10-19-.pdf)
+
+
+## `article-crawler`样板展示
+[rmrb_20251020.pdf](https://github.com/user-attachments/files/22998375/rmrb_20251020.pdf)
+
 
 ## 功能
 
