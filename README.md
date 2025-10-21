@@ -6,11 +6,13 @@
 
 ## `main`样板展示
 [人民日报-2025-10-19-完整版.pdf](https://github.com/user-attachments/files/22998360/-2025-10-19-.pdf)
+
 <img width="501" height="717" alt="503528415-95bf93c5-4f34-4113-8097-cd283f55032a" src="https://github.com/user-attachments/assets/a8cb708f-30ba-4601-85b2-d04bb3404ec5" />
 
 
 ## `article-crawler`样板展示
 [rmrb_20251020.pdf](https://github.com/user-attachments/files/22998375/rmrb_20251020.pdf)
+
 <img width="717" height="501" alt="rmrb_20251021" src="https://github.com/user-attachments/assets/8a344e12-cf2f-4eed-9eb6-0cffea341d02" />
 
 
