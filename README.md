@@ -66,6 +66,11 @@
 运行 python main.py 启动程序。
 程序将每隔一分钟检查一次定时任务，并每天自动下载人民日报的 PDF 文件。
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Kings-en/rmrb-pdf-fetcher&type=date&legend=top-left)](https://www.star-history.com/#Kings-en/rmrb-pdf-fetcher&type=date&legend=top-left)
+
 ## 贡献
 
 如果你希望为该项目贡献代码，可以创建一个 pull request，提交新的功能或修复 bug。
