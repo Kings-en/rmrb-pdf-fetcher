@@ -296,4 +296,6 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Kings-en/rmrb-pdf-fetcher&type=date&legend=top-left)](https://www.star-history.com/#Kings-en/rmrb-pdf-fetcher&type=date&legend=top-left)
