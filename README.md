@@ -13,7 +13,8 @@
 ## `article-crawler`样板展示
 [rmrb_20251020.pdf](https://github.com/user-attachments/files/22998375/rmrb_20251020.pdf)
 
-<img width="717" height="501" alt="rmrb_20251021" src="https://github.com/user-attachments/assets/b33a50ee-3293-4900-afbb-065049201050" />
+<img width="668" height="956" alt="rmrb_20251027" src="https://github.com/user-attachments/assets/de2795aa-1a54-4f79-afea-beb9916ef7e5" />
+
 
 
 
